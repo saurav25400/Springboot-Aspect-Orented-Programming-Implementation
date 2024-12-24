@@ -8,6 +8,7 @@ public class AopAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AopAppApplication.class, args);
+		System.out.println("welcome to the springboot application");
 	}
 
 }
